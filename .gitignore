@@ -1,0 +1,5 @@
+datasets/*
+us_test2/*
+us_train2/*
+results/*
+checkpoints/*

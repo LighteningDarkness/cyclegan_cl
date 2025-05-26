@@ -1,7 +1,7 @@
 # CUDA_VISIBLE_DEVICES=1,2 \
 # python train.py \
 # --dataroot ./datasets \
-# --name test_train \
+# --name dcd_mtl \
 # --gpu_ids 0,1 \
 # --input_nc 1 \
 # --output_nc 1 \

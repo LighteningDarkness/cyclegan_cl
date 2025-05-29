@@ -5,3 +5,4 @@
 
 最后实际仅需使用GA权重
 
+把权重文件（不包括ckpt文件夹）放在checkpoints/dcd_mtl下
